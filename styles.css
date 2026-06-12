@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+} 
+
+.title {
+    background-color: orange;
+    border: 2px solid black;
+    margin-top: 4px;
+    margin-bottom: 12px;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.nav {
+    background-color: orange;
+    border: 2px solid black;
+    padding: 4px;
+}
+
+.recipes {
+    text-align: left;
+}
+
+.heading {
+    background-color: orange;
+    border: 2px solid black;
+}
